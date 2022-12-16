@@ -12,10 +12,12 @@
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
 
 
-<br>
+
+  <br>
+  </br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&langs_count=8)](https://github.com/Jaehi/github-readme-stats)
-</br>
+
   
   <br>
   </br>
