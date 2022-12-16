@@ -4,9 +4,7 @@
 
 ### :purple_heart: studying :purple_heart:
 ![Kotlin](https://img.shields.io/badge/Kotlin-5A45FF?style=flat-square&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=Java&logoColor=white) 
-  
-   <br>
-  </br>
+
   
 ### :blue_heart: IDE :blue_heart:
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
