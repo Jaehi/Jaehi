@@ -10,10 +10,11 @@
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
 
 
-
   <br>
   </br>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&theme=tokyonight)
+
   <br>
   </br>
   
