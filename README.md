@@ -13,7 +13,7 @@
 
   <br>
   </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&layout=compact)](https://github.com/Jaehi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&langs_count=8)](https://github.com/Jaehi/github-readme-stats)
   
   <br>
   </br>
