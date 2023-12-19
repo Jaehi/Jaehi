@@ -13,10 +13,10 @@
 
   <br>
   </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&layout=compat&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&theme=tokyonight)
   <br>
   </br>
   
-![Jaehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehi&show_icons=true&theme=tokyonight)
+![Jaehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehi&theme=tokyonight)
   
 </div>
