@@ -13,11 +13,9 @@
 
   <br>
   </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi)](https://github.com/Jaehi/github-readme-stats)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehi&layout=compat&theme=tokyonight)
   <br>
   </br>
-  
   
 ![Jaehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehi&show_icons=true&theme=tokyonight)
   
